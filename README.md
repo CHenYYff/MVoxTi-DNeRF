@@ -16,7 +16,7 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/d4726742-dee9-497c-9c9
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/4db67275-e9d9-4670-a9dc-4fe86d5a7e09
 
 
-https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/3d7d1781-3a61-4cb6-81b5-16404b343ee8
+#https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/3d7d1781-3a61-4cb6-81b5-16404b343ee8
 
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/253b76ef-c094-4a9f-966e-ef7f33e9c22f
