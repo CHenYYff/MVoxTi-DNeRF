@@ -22,4 +22,4 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/3d7d1781-3a61-4cb6-81b
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/253b76ef-c094-4a9f-966e-ef7f33e9c22f
 
 
-https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/c94a7f88-9114-46cf-8766-5a4a7969acaf
+#https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/c94a7f88-9114-46cf-8766-5a4a7969acaf
