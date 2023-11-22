@@ -16,10 +16,6 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/d4726742-dee9-497c-9c9
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/4db67275-e9d9-4670-a9dc-4fe86d5a7e09
 
 
-![mutantvideo](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/4e17542d-e597-40d2-858c-8dae48336292)
-
-
-
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/253b76ef-c094-4a9f-966e-ef7f33e9c22f
 
 
