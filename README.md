@@ -1,6 +1,6 @@
 # MVoxTi-DNeRF
 
-<img src='https://www.albertpumarola.com/images/2021/D-NeRF/teaser2.gif' align="center" width=400>
+<img src='https://www.albertpumarola.com/images/2021/D-NeRF/teaser2.gif' align="center" width=800>
 
 
 
