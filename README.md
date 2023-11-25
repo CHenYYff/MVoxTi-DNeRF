@@ -4,9 +4,7 @@
 
 
 
-![4](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/c79bbf13-18b1-4853-a41a-df0ee8c258a0)
 
-![44](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/f0505e34-f845-44e3-9729-3e079ce3b2fc)
 
 
 
