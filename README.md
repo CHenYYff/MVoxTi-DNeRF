@@ -29,10 +29,6 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b7569977-e796-47a1-991
 
 
 
-https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/76e92095-451a-4dfe-835f-4e5b0e4c5cd5
-
-
-
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/d68d1f44-3379-4ebb-a10c-4180883c8c8e
 
 
