@@ -3,9 +3,7 @@
 
 
 
-![我的图片](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/49fb5eef-23b3-409b-aac6-ac2d4679bf5d)
 
-![standup](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/6c993e8d-18e5-4180-b821-96eb7756281a)
 
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/78cf2773-aacd-47a0-9a8c-e2ab8c559fb0
