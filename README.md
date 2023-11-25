@@ -2,6 +2,7 @@
 # Coming soon
 
 
+![video rgb -original-original](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/836c66e9-7bab-4a39-b186-3439c2768e2d)
 
 
 
