@@ -1,8 +1,6 @@
 # MVoxTi-DNeRF
 
 
-<video src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/78cf2773-aacd-47a0-9a8c-e2ab8c559fb0"/> <video src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/5778cd61-2e3b-4cca-8330-3c9df91e7eda"/>
-
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/78cf2773-aacd-47a0-9a8c-e2ab8c559fb0
 
