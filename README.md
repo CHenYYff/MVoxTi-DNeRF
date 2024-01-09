@@ -1,6 +1,6 @@
 # MVoxTi-DNeRF
 
-
+<img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/3239e8d7-2781-4d3b-af27-bc91fd3ff317" width="52%"/> <img src="https://user-images.githubusercontent.com/3310961/194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" width="46%"/>
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/78cf2773-aacd-47a0-9a8c-e2ab8c559fb0
 
@@ -16,6 +16,7 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b7569977-e796-47a1-991
 
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/d68d1f44-3379-4ebb-a10c-4180883c8c8e
+
 
 
 
