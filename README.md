@@ -1,6 +1,6 @@
 # MVoxTi-DNeRF
 
-<img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b43cdb60-966c-4829-b853-6bbd2e83cd88.gif" width="20%"/> 
+<img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b43cdb60-966c-4829-b853-6bbd2e83cd88.gif" width="20%"/><img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/469e5ad6-600f-4f22-bc4b-68c4aaeb64b3.gif" width="20%"/> <img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/a7b807d7-e10a-4c78-8f96-a9daab4952cb" width="20%"/> 
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/78cf2773-aacd-47a0-9a8c-e2ab8c559fb0
 
@@ -20,7 +20,7 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/d68d1f44-3379-4ebb-a10
 
 
 
-![bouncingballs](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b43cdb60-966c-4829-b853-6bbd2e83cd88)
+
 
 
 
