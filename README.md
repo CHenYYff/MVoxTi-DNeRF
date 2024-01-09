@@ -22,15 +22,17 @@ https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/d68d1f44-3379-4ebb-a10
 
 
 
-
-![standup](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/442f3e84-3426-4aef-af13-528a4ac50bde)
-
-
-
-![trex](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/e725423f-e075-4e9a-9b2d-10e03fa4c9e8)
-
-![jumpingjacks](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/1e2ac440-1e1e-409e-bb14-e564e0b3ccad)
-
-
-![lego](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/1b42958f-2162-4412-9ca4-911ff4bcfbb4)
-![hellwarrior](https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/cb1d67ce-ee0d-4a11-af26-d174357dec6d)
+<table width="100%">
+                        <tr>
+                            <td align="left" valign="top" width="50%">
+                                    <video class="video" preload="auto" id="balloon1" loop playsinline autoPlay muted src="video/vrig_balloon_wave_crop.mp4" onplay="resizeAndPlayDual(this, 'balloon2')"></video>
+                                    
+                                    <canvas height=0 class="videoMerge" id="balloon1Merge"></canvas>
+                            </td>
+                            <td align="left" valign="top" width="50%">
+                                    <video class="video" preload="auto" id="balloon2" loop playsinline autoPlay muted src="video/vrig_balloon_wave_crop_compare_dynamic.mp4"></video>
+                                    
+                                    <canvas height=0 class="videoMerge" id="balloon2Merge"></canvas>
+                            </td>
+                        </tr>
+                    </table>
