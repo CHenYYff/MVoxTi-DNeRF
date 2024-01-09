@@ -1,6 +1,6 @@
 # MVoxTi-DNeRF
 
-<img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b43cdb60-966c-4829-b853-6bbd2e83cd88.gif" width="52%"/> 
+<img src="https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/b43cdb60-966c-4829-b853-6bbd2e83cd88.gif" width="20%"/> 
 
 https://github.com/CHenYYff/MVoxTi-DNeRF/assets/117790613/78cf2773-aacd-47a0-9a8c-e2ab8c559fb0
 
